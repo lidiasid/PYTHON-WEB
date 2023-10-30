@@ -1,0 +1,21 @@
+2023-10-29 21:43:39 INFO Test1 Starting
+2023-10-29 21:43:39 INFO Send test to element // *[ @ id = "login"] / div[1] / label / input
+2023-10-29 21:43:39 INFO Send test to element // *[ @ id = "login"] / div[2] / label / input
+2023-10-29 21:43:40 INFO Click login button
+2023-10-29 21:43:41 INFO We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+2023-10-29 21:43:51 INFO Test2 Starting
+2023-10-29 21:43:51 INFO Send Ekaterina12+12 to element // *[ @ id = "login"] / div[1] / label / input
+2023-10-29 21:43:51 INFO Send e2d37ead9b to element // *[ @ id = "login"] / div[2] / label / input
+2023-10-29 21:43:51 INFO Click login button
+2023-10-29 21:43:53 INFO We found text Hello, Ekaterina12+12 in text field //*[@id="app"]/main/nav/ul/li[3]/a
+2023-10-29 21:44:02 INFO Test3 Starting
+2023-10-29 21:44:02 INFO Send Ekaterina12+12 to element // *[ @ id = "login"] / div[1] / label / input
+2023-10-29 21:44:03 INFO Send e2d37ead9b to element // *[ @ id = "login"] / div[2] / label / input
+2023-10-29 21:44:03 INFO Click login button
+2023-10-29 21:44:03 INFO Click contact button
+2023-10-29 21:44:05 INFO Send Anna Popova to element //*[@id="contact"]/div[1]/label/input
+2023-10-29 21:44:06 INFO Send Anna@mail.ru to element //*[@id="contact"]/div[2]/label/input
+2023-10-29 21:44:06 INFO Send Hello! I am glade to see you to element //*[@id="contact"]/div[3]/label/span/textarea
+2023-10-29 21:44:06 INFO Click Contact us button
+2023-10-29 21:44:07 INFO Get alert message
+2023-10-29 21:44:07 INFO Alert message is Form successfully submitted

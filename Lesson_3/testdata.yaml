@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+
+login: "Ekaterina12+12"
+passwd: "e2d37ead9b" 
+
+name: "Anna Popova"
+email: "Anna@mail.ru"
+content: "Hello! I am glade to see you"
