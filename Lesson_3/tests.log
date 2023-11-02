@@ -1,0 +1,17 @@
+2023-11-02 16:20:17 [INFO] ====== WebDriver manager ======
+2023-11-02 16:20:20 [INFO] Get LATEST chromedriver version for google-chrome
+2023-11-02 16:20:21 [INFO] Get LATEST chromedriver version for google-chrome
+2023-11-02 16:20:21 [INFO] Driver [C:\Users\lida1\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
+2023-11-02 16:20:22 [INFO] Test1 Starting
+2023-11-02 16:20:33 [ERROR] Timeout error: element ('xpath', '//*[@id="login"]/div[1]/label/input') not found during 10 seconds
+2023-11-02 16:20:33 [ERROR] Element ('xpath', '//*[@id="login"]/div[1]/label/input') not found
+2023-11-02 16:20:43 [ERROR] Timeout error: element ('xpath', '//*[@id="login"]/div[2]/label/input') not found during 10 seconds
+2023-11-02 16:20:43 [ERROR] Element ('xpath', '//*[@id="login"]/div[2]/label/input') not found
+2023-11-02 16:20:54 [ERROR] Timeout error: element ('css selector', 'button') not found during 10 seconds
+2023-11-02 16:20:56 [ERROR] Timeout error: element ('xpath', '//*[@id="app"]/main/div/div/div[2]/h2') not found during 2 seconds
+2023-11-02 16:21:03 [INFO] Test login_negative Starting
+2023-11-02 16:21:05 [INFO] Opened site https://test-stand.gb.ru/
+2023-11-02 16:21:06 [INFO] Test login_positive Starting
+2023-11-02 16:21:07 [INFO] Opened site https://test-stand.gb.ru/
+2023-11-02 16:21:09 [INFO] Test add_post Starting
+2023-11-02 16:21:14 [INFO] Test contact_us Starting

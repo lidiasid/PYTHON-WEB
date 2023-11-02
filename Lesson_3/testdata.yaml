@@ -3,8 +3,27 @@ browser: chrome
 sleep_time: 5
 
 login: "Ekaterina12+12"
-passwd: "e2d37ead9b" 
+pswd: "e2d37ead9b" 
 
 name: "Anna Popova"
 email: "Anna@mail.ru"
 content: "Hello! I am glade to see you"
+
+title: "Горы мира!"
+description: "Самые высокие горы мира"
+content: "Эверест (Джомолунгма) — 8 848 метров (по другим данным 8 850 м). Это самая высокая вершина мира, расположенная на границе Непала и Китая (Тибет).
+К2 (Чогори) — 8 611 метров. Вторая по высоте вершина мира, находится в Каракоруме, на границе Пакистана и Китая.
+Кангчендзенга — 8 586 метров. Третья по высоте вершина мира, расположенная на границе Индии и Непала.
+Лхоцзе — 8 516 метров. Четвёртая по высоте вершина мира, расположенная вблизи Эвереста, на границе Непала и Китая (Тибет).
+Макалу — 8 485 метров. Пятая по высоте вершина мира, расположенная в Гималаях, на границе Непала и Китая (Тибет)."
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: White cat
+
+fromaddr: "lida121290@mail.ru"
+toaddr: "lida121290@mail.ru"
+fromaddr_passwd: "--------"
+file: "log.txt"
+letter_body: "Отчет о тестировании"
